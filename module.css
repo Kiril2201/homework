@@ -1,0 +1,18 @@
+.all{
+    background-color:#db7093;
+   
+    height: 700px;
+    width: 500px;
+    margin-left: 300px;
+   
+}
+.btn{
+    background-color: blueviolet;
+    
+}
+.container{
+    border:grey 3px solid;
+}
+.child{
+    background-color: rgb(160, 116, 202);
+}
